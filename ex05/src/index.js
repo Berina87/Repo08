@@ -7,7 +7,7 @@ function myDress(){
     return dress;
 }
 // Only change code below this line
-myDress();
+dress = myDress();
 // Only change code above this line
 console.log(dress)
 
